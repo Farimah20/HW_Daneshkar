@@ -692,7 +692,7 @@ def load_simple_comments_corpus(csv_path: str = DEFAULT_CSV_PATH,
     """
     import pandas as pd
     from collections import Counter
-    from data_pipeline import quality_filter, deduplicate
+    from data_pipeline_FatemehDadkah import quality_filter, deduplicate
 
 
     df = pd.read_csv(csv_path)
