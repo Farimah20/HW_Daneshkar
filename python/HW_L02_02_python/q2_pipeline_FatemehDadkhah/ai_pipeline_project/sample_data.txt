@@ -1,0 +1,34 @@
+Artificial intelligence is transforming industries around the world.
+Machine learning allows computers to learn from data without being explicitly programmed.
+Deep learning uses neural networks with many hidden layers to model complex patterns.
+Natural language processing enables machines to understand and generate human language.
+Computer vision gives machines the ability to interpret and analyse visual information.
+Reinforcement learning trains agents by rewarding desired behaviours over time.
+Supervised learning relies on labelled training data to make accurate predictions.
+Unsupervised learning discovers hidden patterns and structures in unlabelled datasets.
+Semi-supervised learning combines a small amount of labelled data with large unlabelled sets.
+Transfer learning reuses knowledge gained from one task to improve performance on another.
+Generative adversarial networks consist of a generator and a discriminator in competition.
+Transformers use self-attention mechanisms to process sequential data efficiently in parallel.
+BERT and GPT are famous pre-trained transformer models widely used for NLP tasks.
+Convolutional neural networks are commonly applied for image classification and object detection.
+Recurrent neural networks are specifically designed to handle sequential and time-series data.
+Autoencoders learn compact latent representations of data in a fully unsupervised manner.
+Gradient descent is the core optimisation algorithm used to train most neural networks.
+Backpropagation computes parameter gradients efficiently through the chain rule of calculus.
+Batch normalisation stabilises and accelerates training by normalising the inputs of each layer.
+Dropout is a regularisation technique that randomly deactivates neurons during training.
+Hyperparameter tuning adjusts settings like learning rate and batch size to improve models.
+Overfitting occurs when a model memorises training data and fails to generalise to new inputs.
+Underfitting happens when a model is too simple to capture the structure of the training data.
+Cross-validation evaluates model performance on multiple data splits to obtain unbiased estimates.
+Feature engineering transforms raw data into informative representations for machine learning.
+Word embeddings map discrete tokens such as words into dense continuous vector spaces.
+Attention mechanisms allow models to focus on the most relevant parts of the input sequence.
+Ethics in AI covers fairness, transparency, accountability, safety, and privacy concerns.
+Explainable AI aims to make the decisions of complex models interpretable by human users.
+Federated learning trains models across many decentralised devices without sharing raw data.
+Edge AI runs machine learning inference directly on IoT sensors and embedded hardware.
+AutoML automates the search for optimal machine learning architectures and hyperparameters.
+Data augmentation artificially expands a training dataset through random transformations.
+Ensemble methods combine predictions from multiple models to produce stronger overall results.
