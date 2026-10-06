@@ -19,8 +19,6 @@
 | [فاطمه دادخواه] | پایپ‌لاین داده | `data_pipeline_FatemehDadkhah.py` |
 | [فاطمه دادخواه_نگین جودزاده_الهام] | Mini GPT و بخش امتیازی | `mini_gpt_torch_FatemehDadkhah_NeginJoodzadeh_Elham.py` |
 
-> نام‌ها و سهم دقیق هر نفر را تیم تکمیل کند.
-
 ## 3. بخش‌ها در یک نگاه
 
 | بخش | محتوا |
